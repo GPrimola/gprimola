@@ -42,10 +42,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#117](https://github.com/michalmuskala/jason/issues/117) in [michalmuskala/jason](https://github.com/michalmuskala/jason)
-2. ❗️ Opened issue [#117](https://github.com/michalmuskala/jason/issues/117) in [michalmuskala/jason](https://github.com/michalmuskala/jason)
-3. 🗣 Commented on [#5](https://github.com/GPrimola/jenkiexs/issues/5) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+2. 🗣 Commented on [#117](https://github.com/michalmuskala/jason/issues/117) in [michalmuskala/jason](https://github.com/michalmuskala/jason)
+3. ❗️ Opened issue [#117](https://github.com/michalmuskala/jason/issues/117) in [michalmuskala/jason](https://github.com/michalmuskala/jason)
 4. 🗣 Commented on [#5](https://github.com/GPrimola/jenkiexs/issues/5) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
-5. 🗣 Commented on [#2](https://github.com/GPrimola/jenkiexs/issues/2) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+5. 🗣 Commented on [#5](https://github.com/GPrimola/jenkiexs/issues/5) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
 <!--END_SECTION:activity-->
 
 </details>
