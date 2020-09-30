@@ -41,10 +41,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/michalmuskala/jason/issues/117) in [michalmuskala/jason](https://github.com/michalmuskala/jason)
+1. 🗣 Commented on [#3](https://github.com/GPrimola/jenkiexs/issues/3) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
 2. 🗣 Commented on [#117](https://github.com/michalmuskala/jason/issues/117) in [michalmuskala/jason](https://github.com/michalmuskala/jason)
-3. ❗️ Opened issue [#117](https://github.com/michalmuskala/jason/issues/117) in [michalmuskala/jason](https://github.com/michalmuskala/jason)
-4. 🗣 Commented on [#5](https://github.com/GPrimola/jenkiexs/issues/5) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+3. 🗣 Commented on [#117](https://github.com/michalmuskala/jason/issues/117) in [michalmuskala/jason](https://github.com/michalmuskala/jason)
+4. ❗️ Opened issue [#117](https://github.com/michalmuskala/jason/issues/117) in [michalmuskala/jason](https://github.com/michalmuskala/jason)
 5. 🗣 Commented on [#5](https://github.com/GPrimola/jenkiexs/issues/5) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
 <!--END_SECTION:activity-->
 
