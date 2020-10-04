@@ -41,11 +41,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/GPrimola/jenkiexs/pull/34) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
-2. 🎉 Merged PR [#26](https://github.com/GPrimola/jenkiexs/pull/26) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
-3. 🗣 Commented on [#26](https://github.com/GPrimola/jenkiexs/issues/26) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
-4. 💪 Opened PR [#33](https://github.com/GPrimola/jenkiexs/pull/33) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
-5. 💪 Opened PR [#32](https://github.com/GPrimola/jenkiexs/pull/32) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+1. 🗣 Commented on [#23](https://github.com/GPrimola/jenkiexs/issues/23) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+2. 🎉 Merged PR [#34](https://github.com/GPrimola/jenkiexs/pull/34) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+3. ❗️ Closed issue [#3](https://github.com/GPrimola/jenkiexs/issues/3) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+4. 🎉 Merged PR [#33](https://github.com/GPrimola/jenkiexs/pull/33) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+5. ❗️ Closed issue [#14](https://github.com/GPrimola/jenkiexs/issues/14) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
 <!--END_SECTION:activity-->
 
 </details>
