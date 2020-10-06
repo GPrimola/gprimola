@@ -41,11 +41,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/GPrimola/jenkiexs/pull/23) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
-2. 🗣 Commented on [#23](https://github.com/GPrimola/jenkiexs/issues/23) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
-3. 🎉 Merged PR [#8](https://github.com/GPrimola/yamel/pull/8) in [GPrimola/yamel](https://github.com/GPrimola/yamel)
-4. 💪 Opened PR [#8](https://github.com/GPrimola/yamel/pull/8) in [GPrimola/yamel](https://github.com/GPrimola/yamel)
-5. 🗣 Commented on [#23](https://github.com/GPrimola/jenkiexs/issues/23) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+1. 🎉 Merged PR [#30](https://github.com/GPrimola/jenkiexs/pull/30) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+2. ❗️ Closed issue [#17](https://github.com/GPrimola/jenkiexs/issues/17) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+3. 🗣 Commented on [#29](https://github.com/GPrimola/jenkiexs/issues/29) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+4. ❌ Closed PR [#29](https://github.com/GPrimola/jenkiexs/pull/29) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+5. 🗣 Commented on [#6](https://github.com/GPrimola/jenkiexs/issues/6) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
 <!--END_SECTION:activity-->
 
 </details>
