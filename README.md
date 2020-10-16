@@ -41,11 +41,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#638](https://github.com/RefugeRestrooms/refugerestrooms/issues/638) in [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms)
+1. 🗣 Commented on [#479](https://github.com/RefugeRestrooms/refugerestrooms/issues/479) in [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms)
 2. 🗣 Commented on [#638](https://github.com/RefugeRestrooms/refugerestrooms/issues/638) in [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms)
-3. 🎉 Merged PR [#36](https://github.com/GPrimola/jenkiexs/pull/36) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
-4. 🎉 Merged PR [#10](https://github.com/GPrimola/yamel/pull/10) in [GPrimola/yamel](https://github.com/GPrimola/yamel)
-5. 💪 Opened PR [#10](https://github.com/GPrimola/yamel/pull/10) in [GPrimola/yamel](https://github.com/GPrimola/yamel)
+3. 🗣 Commented on [#638](https://github.com/RefugeRestrooms/refugerestrooms/issues/638) in [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms)
+4. 🎉 Merged PR [#36](https://github.com/GPrimola/jenkiexs/pull/36) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+5. 🎉 Merged PR [#10](https://github.com/GPrimola/yamel/pull/10) in [GPrimola/yamel](https://github.com/GPrimola/yamel)
 <!--END_SECTION:activity-->
 
 </details>
