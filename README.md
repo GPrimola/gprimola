@@ -41,11 +41,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#651](https://github.com/RefugeRestrooms/refugerestrooms/issues/651) in [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms)
+1. 🗣 Commented on [#650](https://github.com/RefugeRestrooms/refugerestrooms/issues/650) in [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms)
 2. 🗣 Commented on [#651](https://github.com/RefugeRestrooms/refugerestrooms/issues/651) in [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms)
 3. 🗣 Commented on [#651](https://github.com/RefugeRestrooms/refugerestrooms/issues/651) in [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms)
-4. 💪 Opened PR [#35](https://github.com/groxio-learning/otp_21_october/pull/35) in [groxio-learning/otp_21_october](https://github.com/groxio-learning/otp_21_october)
-5. 💪 Opened PR [#33](https://github.com/groxio-learning/otp_21_october/pull/33) in [groxio-learning/otp_21_october](https://github.com/groxio-learning/otp_21_october)
+4. 🗣 Commented on [#651](https://github.com/RefugeRestrooms/refugerestrooms/issues/651) in [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms)
+5. 💪 Opened PR [#35](https://github.com/groxio-learning/otp_21_october/pull/35) in [groxio-learning/otp_21_october](https://github.com/groxio-learning/otp_21_october)
 <!--END_SECTION:activity-->
 
 </details>
