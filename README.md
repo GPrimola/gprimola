@@ -41,11 +41,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/GPrimola/jenkiexs/pull/38) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
-2. ❗️ Closed issue [#7](https://github.com/GPrimola/jenkiexs/issues/7) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
-3. 🗣 Commented on [#18](https://github.com/GPrimola/jenkiexs/issues/18) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
-4. ❗️ Opened issue [#39](https://github.com/GPrimola/jenkiexs/issues/39) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
-5. 🗣 Commented on [#650](https://github.com/RefugeRestrooms/refugerestrooms/issues/650) in [RefugeRestrooms/refugerestrooms](https://github.com/RefugeRestrooms/refugerestrooms)
+1. ❗️ Opened issue [#26](https://github.com/deadtrickster/prometheus-ecto/issues/26) in [deadtrickster/prometheus-ecto](https://github.com/deadtrickster/prometheus-ecto)
+2. 🎉 Merged PR [#38](https://github.com/GPrimola/jenkiexs/pull/38) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+3. ❗️ Closed issue [#7](https://github.com/GPrimola/jenkiexs/issues/7) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+4. 🗣 Commented on [#18](https://github.com/GPrimola/jenkiexs/issues/18) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+5. ❗️ Opened issue [#39](https://github.com/GPrimola/jenkiexs/issues/39) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
 <!--END_SECTION:activity-->
 
 </details>
