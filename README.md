@@ -41,11 +41,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/davidstump/slackex/issues/8) in [davidstump/slackex](https://github.com/davidstump/slackex)
-2. ❗️ Opened issue [#26](https://github.com/deadtrickster/prometheus-ecto/issues/26) in [deadtrickster/prometheus-ecto](https://github.com/deadtrickster/prometheus-ecto)
-3. 🎉 Merged PR [#38](https://github.com/GPrimola/jenkiexs/pull/38) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
-4. ❗️ Closed issue [#7](https://github.com/GPrimola/jenkiexs/issues/7) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
-5. 🗣 Commented on [#18](https://github.com/GPrimola/jenkiexs/issues/18) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+1. ❗️ Opened issue [#40](https://github.com/GPrimola/jenkiexs/issues/40) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+2. ❗️ Opened issue [#8](https://github.com/davidstump/slackex/issues/8) in [davidstump/slackex](https://github.com/davidstump/slackex)
+3. ❗️ Opened issue [#26](https://github.com/deadtrickster/prometheus-ecto/issues/26) in [deadtrickster/prometheus-ecto](https://github.com/deadtrickster/prometheus-ecto)
+4. 🎉 Merged PR [#38](https://github.com/GPrimola/jenkiexs/pull/38) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
+5. ❗️ Closed issue [#7](https://github.com/GPrimola/jenkiexs/issues/7) in [GPrimola/jenkiexs](https://github.com/GPrimola/jenkiexs)
 <!--END_SECTION:activity-->
 
 </details>
