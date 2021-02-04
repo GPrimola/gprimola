@@ -41,11 +41,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/primait/posexional/issues/28) in [primait/posexional](https://github.com/primait/posexional)
-2. ❗️ Opened issue [#28](https://github.com/primait/posexional/issues/28) in [primait/posexional](https://github.com/primait/posexional)
-3. ❗️ Opened issue [#13](https://github.com/GPrimola/yamel/issues/13) in [GPrimola/yamel](https://github.com/GPrimola/yamel)
-4. ❗️ Opened issue [#12](https://github.com/GPrimola/yamel/issues/12) in [GPrimola/yamel](https://github.com/GPrimola/yamel)
-5. 🎉 Merged PR [#11](https://github.com/GPrimola/yamel/pull/11) in [GPrimola/yamel](https://github.com/GPrimola/yamel)
+1. 💪 Opened PR [#29](https://github.com/primait/posexional/pull/29) in [primait/posexional](https://github.com/primait/posexional)
+2. 🗣 Commented on [#28](https://github.com/primait/posexional/issues/28) in [primait/posexional](https://github.com/primait/posexional)
+3. ❗️ Opened issue [#28](https://github.com/primait/posexional/issues/28) in [primait/posexional](https://github.com/primait/posexional)
+4. ❗️ Opened issue [#13](https://github.com/GPrimola/yamel/issues/13) in [GPrimola/yamel](https://github.com/GPrimola/yamel)
+5. ❗️ Opened issue [#12](https://github.com/GPrimola/yamel/issues/12) in [GPrimola/yamel](https://github.com/GPrimola/yamel)
 <!--END_SECTION:activity-->
 
 </details>
