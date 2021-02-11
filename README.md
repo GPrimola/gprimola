@@ -42,10 +42,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#29](https://github.com/primait/posexional/issues/29) in [primait/posexional](https://github.com/primait/posexional)
-2. 💪 Opened PR [#29](https://github.com/primait/posexional/pull/29) in [primait/posexional](https://github.com/primait/posexional)
-3. 🗣 Commented on [#28](https://github.com/primait/posexional/issues/28) in [primait/posexional](https://github.com/primait/posexional)
-4. ❗️ Opened issue [#28](https://github.com/primait/posexional/issues/28) in [primait/posexional](https://github.com/primait/posexional)
-5. ❗️ Opened issue [#13](https://github.com/GPrimola/yamel/issues/13) in [GPrimola/yamel](https://github.com/GPrimola/yamel)
+2. 🗣 Commented on [#29](https://github.com/primait/posexional/issues/29) in [primait/posexional](https://github.com/primait/posexional)
+3. 💪 Opened PR [#29](https://github.com/primait/posexional/pull/29) in [primait/posexional](https://github.com/primait/posexional)
+4. 🗣 Commented on [#28](https://github.com/primait/posexional/issues/28) in [primait/posexional](https://github.com/primait/posexional)
+5. ❗️ Opened issue [#28](https://github.com/primait/posexional/issues/28) in [primait/posexional](https://github.com/primait/posexional)
 <!--END_SECTION:activity-->
 
 </details>
