@@ -41,11 +41,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/primait/posexional/issues/29) in [primait/posexional](https://github.com/primait/posexional)
-2. 🗣 Commented on [#29](https://github.com/primait/posexional/issues/29) in [primait/posexional](https://github.com/primait/posexional)
-3. 💪 Opened PR [#29](https://github.com/primait/posexional/pull/29) in [primait/posexional](https://github.com/primait/posexional)
-4. 🗣 Commented on [#28](https://github.com/primait/posexional/issues/28) in [primait/posexional](https://github.com/primait/posexional)
-5. ❗️ Opened issue [#28](https://github.com/primait/posexional/issues/28) in [primait/posexional](https://github.com/primait/posexional)
+1. 🎉 Merged PR [#1](https://github.com/GPrimola/posexional/pull/1) in [GPrimola/posexional](https://github.com/GPrimola/posexional)
+2. 💪 Opened PR [#1](https://github.com/GPrimola/posexional/pull/1) in [GPrimola/posexional](https://github.com/GPrimola/posexional)
+3. 🗣 Commented on [#29](https://github.com/primait/posexional/issues/29) in [primait/posexional](https://github.com/primait/posexional)
+4. 🗣 Commented on [#29](https://github.com/primait/posexional/issues/29) in [primait/posexional](https://github.com/primait/posexional)
+5. 💪 Opened PR [#29](https://github.com/primait/posexional/pull/29) in [primait/posexional](https://github.com/primait/posexional)
 <!--END_SECTION:activity-->
 
 </details>
