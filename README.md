@@ -7,6 +7,8 @@
 
 ### Main Languages and Tools I use:
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gprimola&layout=compact)](https://github.com/GPrimola?tab=repositories)
+
 <img align="left" alt="Elixir" height="26px" src="https://raw.githubusercontent.com/elixir-lang/elixir-lang.github.com/master/images/logo/logo.png" />
 <img align="left" alt="Phoenix Framework" height="26px" src="https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/phoenix.png" />
 <img align="left" alt="Ruby" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
