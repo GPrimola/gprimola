@@ -1,7 +1,7 @@
 ### Hi, I'm Giorgio, but you can call me [Lucas][website] 👋🏻
 
 
-- 👨🏻‍💻 I’m a Software Engineer at [SumUp][jobwebsite]!
+- 👨🏻‍💻 I’m a Software Engineer at [Jaya][jobwebsite]!
 - 🤓 I love to collaborate with Open Source Software
 
 
@@ -56,4 +56,4 @@
 [website]: https://lucastech.dev
 [twitter]: https://twitter.com/lu_gico
 [linkedin]: https://www.linkedin.com/in/giorgiotorres/
-[jobwebsite]: https://sumup.com/
+[jobwebsite]: https://jaya.tech/
