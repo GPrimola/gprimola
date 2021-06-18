@@ -1,7 +1,7 @@
 ### Hi, I'm Giorgio, but you can call me [Lucas][website] 👋🏻
 
 
-- 👨🏻‍💻 I’m a Software Engineer at [Jaya][jobwebsite]!
+- 👨🏻‍💻 I’m a Software Engineer at [Jaya][employerwebsite]!
 - 🤓 I love to collaborate with Open Source Software
 
 
@@ -29,8 +29,9 @@
 
 ### Find me:
 
-[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Flu_gico)][twitter]
-[![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiorgiotorres%2F)][linkedin]
+[![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiorgiotorres%2F)][linkedin]
+[![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Flu_gico)][twitter]
+[![WhatsApp URL](https://img.shields.io/twitter/url?label=WhatsApp&logo=whatsapp&style=social&url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D5511996131613)][whatsapp]
 
 <br />
 
@@ -54,6 +55,7 @@
 
 
 [website]: https://lucastech.dev
+[whatsapp]: https://api.whatsapp.com/send?phone=5511996131613
 [twitter]: https://twitter.com/lu_gico
 [linkedin]: https://www.linkedin.com/in/giorgiotorres/
-[jobwebsite]: https://jaya.tech/
+[employerwebsite]: https://jaya.tech/
