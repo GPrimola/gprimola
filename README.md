@@ -1,7 +1,7 @@
 ### Hi, I'm Giorgio, but you can call me *Gio* or *Lucas* 👋🏻
 
 
-- 👨🏻‍💻 I’m a Software Engineer at [Jaya][employerwebsite]!
+- 👨🏻‍💻 I’m a Software Engineer at [Klarna][employerwebsite]!
 - 🤓 I love to collaborate with Open Source Software
 
 
@@ -55,7 +55,9 @@
 
 
 [website]: https://lucastech.dev
-[whatsapp]: https://api.whatsapp.com/send?phone=5511996131613
+[whatsapp]: https://api.whatsapp.com/send?phone=393489096158
+[mastodon]: https://techhub.social/@giorgiolucas
 [twitter]: https://twitter.com/lu_gico
 [linkedin]: https://www.linkedin.com/in/giorgiotorres/
-[employerwebsite]: https://jaya.tech/
+[employerwebsite]: https://klarna.com/
+[formeremployerwebsite]: https://jaya.tech/
