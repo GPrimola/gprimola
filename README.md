@@ -34,6 +34,8 @@
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Flu_gico)][twitter]
 [![WhatsApp URL](https://img.shields.io/twitter/url?label=WhatsApp&logo=whatsapp&style=social&url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D5511996131613)][whatsapp]
 
+
+<a rel="me" href="https://techhub.social/@giorgiolucas">Mastodon</a>
 <br />
 
 ---
