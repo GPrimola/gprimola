@@ -34,7 +34,7 @@
 </a>
 
 <a rel="me" href="https://techhub.social/@giorgiolucas">
-  <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109391779399664075?domain=https%3A%2F%2Ftechhub.social&label=Mastodon&style=social" />
+  <img alt="Mastodon Follow" src="https://img.shields.io/twitter/url?label=Mastodon&logo=mastodon&style=social&url=https%3A%2F%2Ftechhub.social%2F%40giorgiolucas" />
 </a>
 
 <a rel="me" href="https://twitter.com/lu_gico">
