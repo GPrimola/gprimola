@@ -29,8 +29,12 @@
 
 ### Find me:
 
+<a rel="me" href="https://www.linkedin.com/in/giorgio-torres-ab664415/" target="_blank">
+  <img alt="LinkedIn Follow" src="https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiorgio-torres-ab664415%2F">
+</a>
+
 [![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiorgio-torres-ab664415%2F)][linkedin]
-<a rel="me" href="https://techhub.social/@giorgiolucas">
+<a rel="me" href="https://techhub.social/@giorgiolucas" target="_blank">
   <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109391779399664075?domain=https%3A%2F%2Ftechhub.social&label=Mastodon&style=social">
 </a>
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Flu_gico)][twitter]
