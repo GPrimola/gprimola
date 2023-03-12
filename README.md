@@ -29,7 +29,7 @@
 
 ### Find me:
 
-[![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiorgio-torres-ab664415)][linkedin]
+[![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiorgio-torres-ab664415%2F)][linkedin]
 <a rel="me" href="https://techhub.social/@giorgiolucas">
   <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109391779399664075?domain=https%3A%2F%2Ftechhub.social&label=Mastodon&style=social">
 </a>
