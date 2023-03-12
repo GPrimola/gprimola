@@ -30,12 +30,12 @@
 ### Find me:
 
 [![LinkedIn URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiorgiotorres%2F)][linkedin]
-[![Mastodon URL](https://img.shields.io/mastodon/follow/@giorgiolucas@techhub.social?domain=https%3A%2F%2Ftechhub.social%2F%40giorgiolucas%40techhub.social&label=Mastodon&style=social)][mastodon]
+<a rel="me" href="https://techhub.social/@giorgiolucas">
+  <img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109391779399664075?domain=https%3A%2F%2Ftechhub.social&label=%40GPrimola&style=social">
+</a>
 [![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Flu_gico)][twitter]
 [![WhatsApp URL](https://img.shields.io/twitter/url?label=WhatsApp&logo=whatsapp&style=social&url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D5511996131613)][whatsapp]
 
-
-<a rel="me" href="https://techhub.social/@giorgiolucas">Mastodon</a>
 <br />
 
 ---
