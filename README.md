@@ -37,10 +37,6 @@
   <img alt="Mastodon Follow" src="https://img.shields.io/twitter/url?label=Mastodon&logo=mastodon&style=social&url=https%3A%2F%2Ftechhub.social%2F%40giorgiolucas" />
 </a>
 
-<a rel="me" href="https://twitter.com/lu_gico">
-  <img alt="Twitter Profile" src="https://img.shields.io/twitter/url?label=Twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Flu_gico" />
-</a>
-
 <a rel="me" href="https://api.whatsapp.com/send?phone=393489096158">
   <img alt="Twitter Profile" src="https://img.shields.io/twitter/url?label=WhatsApp&logo=whatsapp&style=social&url=https%3A%2F%2Fapi.whatsapp.com%2Fsend%3Fphone%3D393489096158" />
 </a>
