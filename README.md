@@ -43,9 +43,6 @@
 
 ---
 
-
-<img alt="GPrimola's Github Stats" src="https://github-readme-stats-mu-ebon.vercel.app/api?username=gprimola&show_icons=true&hide_border=true&theme=onedark" />
-
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
