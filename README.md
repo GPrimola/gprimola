@@ -1,7 +1,7 @@
 ### Hi, I'm Giorgio, but you can call me *Gio* or *Lucas* 👋🏻
 
 
-- 👨🏻‍💻 I’m a Software Engineer at [Klarna][employerwebsite]!
+- 👨🏻‍💻 I’m a Software Engineer at [Hewlett Packard][employerwebsite]!
 - 🤓 I love to collaborate with Open Source Software
 
 
@@ -62,5 +62,5 @@
 [mastodon]: https://techhub.social/@giorgiolucas
 [twitter]: https://twitter.com/lu_gico
 [linkedin]: https://www.linkedin.com/in/giorgiotorres/
-[employerwebsite]: https://klarna.com/
+[employerwebsite]: https://hpe.com/
 [formeremployerwebsite]: https://jaya.tech/
