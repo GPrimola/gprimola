@@ -1,7 +1,7 @@
 ### Hi, I'm Giorgio, but you can call me *Gio* or *Lucas* 👋🏻
 
 
-- 👨🏻‍💻 I’m a Software Engineer at [Hewlett Packard][employerwebsite]!
+- 👨🏻‍💻 I’m a Software Engineer at [Hewlett-Packard Enterprise][employerwebsite]!
 - 🤓 I love to collaborate with Open Source Software
 
 
@@ -43,18 +43,16 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/GPrimola/posexional/pull/1) in [GPrimola/posexional](https://github.com/GPrimola/posexional)
-2. 💪 Opened PR [#1](https://github.com/GPrimola/posexional/pull/1) in [GPrimola/posexional](https://github.com/GPrimola/posexional)
-3. 🗣 Commented on [#29](https://github.com/primait/posexional/issues/29) in [primait/posexional](https://github.com/primait/posexional)
-4. 🗣 Commented on [#29](https://github.com/primait/posexional/issues/29) in [primait/posexional](https://github.com/primait/posexional)
-5. 💪 Opened PR [#29](https://github.com/primait/posexional/pull/29) in [primait/posexional](https://github.com/primait/posexional)
-<!--END_SECTION:activity-->
+👷🏻‍♂️👨🏻‍💻 Contributions
 
-</details>
+<ul>
+  <li>https://github.com/ScenicFramework/scenic_driver_local/pull/17</li>
+  <li>https://github.com/ScenicFramework/scenic/pull/326</li>
+  <li>https://github.com/ScenicFramework/scenic/pull/290</li>
+  <li>https://github.com/ScenicFramework/scenic/pull/297</li>
+  <li>https://github.com/primait/posexional/pull/29</li>
+  <li>https://github.com/pcorey/chord-chart/pull/1 (More details about this <a href="http://www.petecorey.com/blog/2018/10/08/rendering-ascii-chord-charts-with-react">here</a>)</li>
+</ul>
 
 
 [website]: https://lucastech.dev
