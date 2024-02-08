@@ -43,13 +43,14 @@
 
 ---
 
-👷🏻‍♂️👨🏻‍💻 Contributions
+## 👷🏻‍♂️👨🏻‍💻 Contributions
 
 <ul>
-  <li>https://github.com/ScenicFramework/scenic_driver_local/pull/17</li>
+  <li>https://github.com/ScenicFramework/scenic_driver_local/pull/42</li>
   <li>https://github.com/ScenicFramework/scenic/pull/326</li>
-  <li>https://github.com/ScenicFramework/scenic/pull/290</li>
   <li>https://github.com/ScenicFramework/scenic/pull/297</li>
+  <li>https://github.com/ScenicFramework/scenic_driver_local/pull/17</li>
+  <li>https://github.com/ScenicFramework/scenic/pull/290</li>
   <li>https://github.com/primait/posexional/pull/29</li>
   <li>https://github.com/pcorey/chord-chart/pull/1 (More details about this <a href="http://www.petecorey.com/blog/2018/10/08/rendering-ascii-chord-charts-with-react">here</a>)</li>
 </ul>
