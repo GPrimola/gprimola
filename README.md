@@ -5,25 +5,28 @@
 - 🤓 I love to collaborate with Open Source Software
 
 
-### Main Languages and Tools I use:
+### Languages and Tools:
 
-<img align="left" alt="Elixir" height="26px" src="https://raw.githubusercontent.com/elixir-lang/elixir-lang.github.com/master/images/logo/logo.png" />
-<img align="left" alt="Phoenix Framework" height="26px" src="https://raw.githubusercontent.com/phoenixframework/phoenix/master/priv/static/phoenix.png" />
-<img align="left" alt="Ruby" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-<img align="left" alt="Rails" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
-<img align="left" alt="JavaScript" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="SQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Postgres" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="MySQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Elixir" height="30px" src="https://raw.githubusercontent.com/elixir-lang/elixir-lang.github.com/main/favicon.ico" />
+<img align="left" alt="Erlang" height="30px" src="https://raw.githubusercontent.com/erlang/erlang-org/master/assets/img/favicon.ico" />
+<img align="left" alt="Ruby" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
+<img alt="JavaScript" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="Phoenix Framework" height="35px" src="https://raw.githubusercontent.com/phoenixframework/phoenix_site/master/themes/default/assets/favicon.ico" />
+<img align="left" alt="RabbitMQ" height="30px" src="https://raw.githubusercontent.com/rabbitmq/rabbitmq-website/main/static/img/rabbitmq-logo.svg" />
+<img align="left" alt="Rails" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
+<img align="left" alt="React" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="GraphQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+
+<img align="left" alt="Postgres" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="MySQL" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+...
 
 <br />
-<br />
-
 
 ### Find me:
 
@@ -40,10 +43,11 @@
 </a>
 
 <br />
+<br />
 
 ---
 
-## 👷🏻‍♂️👨🏻‍💻 Contributions
+### 👷🏻‍♂️👨🏻‍💻 Contributions
 
 <ul>
   <li>https://github.com/ScenicFramework/scenic_driver_local/pull/42</li>
