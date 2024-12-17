@@ -50,6 +50,7 @@
 ### 👷🏻‍♂️👨🏻‍💻 Contributions
 
 <ul>
+  <li>https://github.com/open-api-spex/open_api_spex/pull/647</li>
   <li>https://github.com/ScenicFramework/scenic_driver_local/pull/42</li>
   <li>https://github.com/ScenicFramework/scenic/pull/326</li>
   <li>https://github.com/ScenicFramework/scenic/pull/297</li>
