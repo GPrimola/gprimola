@@ -1,4 +1,4 @@
-### Hi, I'm Giorgio, but you can call me *Gio* or *Lucas* 👋🏻
+### Hi, I'm Giorgio, but you can call me *Gio* 👋🏻
 
 
 - 👨🏻‍💻 I’m a Software Engineer at [Hewlett-Packard Enterprise][employerwebsite]!
